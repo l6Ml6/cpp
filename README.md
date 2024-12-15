@@ -1,8 +1,11 @@
 University C++ Exercises
-Welcome to my repository! This collection contains the source codes for various exercises I have completed as part of my university coursework in C++. Each folder represents a different exercise or project that helped me improve my programming skills and understanding of C++ concepts.
+
+Welcome to my repository!
+This collection contains the source codes for various exercises I have completed as part of my university coursework in C++.
+Each folder represents a different exercise or project that helped me improve my programming skills and understanding of C++ concepts.
+
 
 📚 About This Repository
-
 Language: C++
 Purpose: University exercises, problem-solving, and algorithm implementation.
 Topics Covered: From basic syntax and control structures to advanced topics like object-oriented programming (OOP), data structures, and algorithms.
