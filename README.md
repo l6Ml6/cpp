@@ -21,12 +21,15 @@ Comments in the code explain the logic behind the implementation and the approac
 💻 How to Run
 
 Clone the repository to your local machine:
+
 `git clone https://github.com/l6Ml6/cpp.git`
 
 Compile the C++ files:
+
 `g++ -o output filename.cpp`
 
 Run the program:
+
 `./output`
 
 📜 License
